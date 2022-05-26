@@ -26,5 +26,4 @@ public class SpringBatchExampleApplication {
         taskExecutor.initialize();
         return taskExecutor;
     }
-
 }
